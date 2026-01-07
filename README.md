@@ -1,4 +1,4 @@
- Sales Performance Dashboard
+  Sales Performance Dashboard
 
  📌 Project Overview
         This Power BI project analyzes sales performance across four different regions to assist management in identifying top-performing managers and areas of concern regarding profitability.
