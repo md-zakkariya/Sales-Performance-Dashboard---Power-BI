@@ -3,8 +3,6 @@
  📌 Project Overview
         This Power BI project analyzes sales performance across four different regions to assist management in identifying top-performing managers and areas of concern regarding profitability.
 
-[Dashboard Screenshot]
-
  🛠 Tools Used
       Power BI (Data Visualization, DAX)
       Excel (Data Source)
@@ -12,9 +10,7 @@
 
  📊 Key Insights
       -Revenue Leaders: Erin leads the team with $592K in sales (East Region), closely followed by William with $526K (West Region).
- 
       -Profitability Warning: The "Sum of Profit by Region" chart highlights a critical issue in the South Region, which is currently operating at a loss unlike the other three profitable regions.
- 
       -Customer Analysis: The Central Region has successfully captured the highest market share in terms of customer count but requires strategy adjustments to improve revenue per customer.
 
  📉 Visuals Used
